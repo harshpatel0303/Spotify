@@ -8,7 +8,7 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "On & On-Cartoon, Daniel Levi", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "With You -AP Dhillon", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
     {songName: "Invincible-DEAF KEV", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "Mortals-Warriyo, Laura Brehm", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "Shine-Spektrem", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
